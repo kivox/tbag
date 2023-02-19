@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T23:47:49.287Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9YWTlw8X9f-E-0PEoZ3P" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-19T23:52:59.054Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="i2BCsmiM8bXRj6OCLPjm" version="20.8.20" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2049" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -57,32 +57,26 @@
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#333333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jbQOFpMAkAd9IMdo7Waa-41" target="jbQOFpMAkAd9IMdo7Waa-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jbQOFpMAkAd9IMdo7Waa-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#333333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jbQOFpMAkAd9IMdo7Waa-41" target="jbQOFpMAkAd9IMdo7Waa-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-41" value="Game" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="580" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#333333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jbQOFpMAkAd9IMdo7Waa-50" target="jbQOFpMAkAd9IMdo7Waa-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-50" value="Go forward" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;size=10;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="280" width="160" height="40" as="geometry" />
+          <mxGeometry x="540" y="160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-52" value="Shop" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="160" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jbQOFpMAkAd9IMdo7Waa-54" value="Inventory" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="700" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#333333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jbQOFpMAkAd9IMdo7Waa-56" target="jbQOFpMAkAd9IMdo7Waa-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-56" value="Generate random prompt, fights or random drops" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="360" width="160" height="40" as="geometry" />
+          <mxGeometry x="540" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-60" value="Coins" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="460" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#333333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jbQOFpMAkAd9IMdo7Waa-63" target="jbQOFpMAkAd9IMdo7Waa-65">
           <mxGeometry relative="1" as="geometry" />
@@ -101,13 +95,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-63" value="Is fight?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="580" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-65" value="Fight" style="ellipse;whiteSpace=wrap;html=1;rounded=1;arcSize=0;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="740" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-68" value="Drop is randomized, and multiplied by how many points their character has on luck" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="560" width="240" height="40" as="geometry" />
+          <mxGeometry x="500" y="440" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jbQOFpMAkAd9IMdo7Waa-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#333333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jbQOFpMAkAd9IMdo7Waa-72" target="jbQOFpMAkAd9IMdo7Waa-75">
           <mxGeometry relative="1" as="geometry" />
